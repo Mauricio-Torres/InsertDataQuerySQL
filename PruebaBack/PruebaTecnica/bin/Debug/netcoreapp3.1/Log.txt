@@ -1,0 +1,40 @@
+2020/10/06 17:36:12
+GetEntity
+Tipo ErrorSqlException 
+Invalid object name 'PruebaTecnica.dbo.Paciente'.
+-------------------------------
+2020/10/06 17:37:07
+GetEntity
+Tipo ErrorSqlException 
+Invalid object name 'PruebaTecnica.dbo.Paciente'.
+-------------------------------
+2020/10/06 17:37:20
+GetEntity
+Tipo ErrorSqlException 
+Invalid object name 'PruebaTecnica.dbo.Paciente'.
+-------------------------------
+2020/10/06 17:42:24
+GetIntinerarios
+Tipo ErrorException 
+Column 'IdComercial' does not belong to table .
+-------------------------------
+2020/10/06 17:43:32
+GetIntinerarios
+Tipo ErrorException 
+Column 'IdComercial' does not belong to table .
+-------------------------------
+2020/10/06 17:46:17
+ExecuteQuery
+Tipo ErrorSqlException 
+Must declare the scalar variable "@IdAvion".
+-------------------------------
+2020/10/06 17:47:15
+ExecuteQuery
+Tipo ErrorSqlException 
+Must declare the scalar variable "@IdAvion".
+-------------------------------
+2020/10/06 21:41:07
+MenorTiempoVuelo
+Tipo ErrorException 
+Unable to cast object of type 'System.String' to type 'System.Int32'.
+-------------------------------

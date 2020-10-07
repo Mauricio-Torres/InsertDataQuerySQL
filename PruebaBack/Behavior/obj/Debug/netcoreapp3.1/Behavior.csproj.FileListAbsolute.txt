@@ -1,0 +1,9 @@
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\Behavior\bin\Debug\netcoreapp3.1\Behavior.deps.json
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\Behavior\bin\Debug\netcoreapp3.1\Behavior.dll
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\Behavior\bin\Debug\netcoreapp3.1\Behavior.pdb
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\Behavior\obj\Debug\netcoreapp3.1\Behavior.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\Behavior\obj\Debug\netcoreapp3.1\Behavior.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\Behavior\obj\Debug\netcoreapp3.1\Behavior.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\Behavior\obj\Debug\netcoreapp3.1\Behavior.dll
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\Behavior\obj\Debug\netcoreapp3.1\Behavior.pdb
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\Behavior\obj\Debug\netcoreapp3.1\Behavior.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.csprojAssemblyReference.cache
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\bin\Debug\netcoreapp3.1\DataConect.deps.json
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\bin\Debug\netcoreapp3.1\DataConect.dll
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\bin\Debug\netcoreapp3.1\DataConect.pdb
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\bin\Debug\netcoreapp3.1\Behavior.dll
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\bin\Debug\netcoreapp3.1\Behavior.pdb
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.csproj.CopyComplete
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.dll
+C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.pdb
