@@ -10,3 +10,15 @@ C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\bin\Debug\netcorea
 C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.csproj.CopyComplete
 C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.dll
 C:\Users\Mauricio\Desktop\PruebaTecnica\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.pdb
+C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\DataConect\bin\Debug\netcoreapp3.1\DataConect.deps.json
+C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\DataConect\bin\Debug\netcoreapp3.1\DataConect.dll
+C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\DataConect\bin\Debug\netcoreapp3.1\DataConect.pdb
+C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\DataConect\bin\Debug\netcoreapp3.1\Behavior.dll
+C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\DataConect\bin\Debug\netcoreapp3.1\Behavior.pdb
+C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.AssemblyInfo.cs
+C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.csproj.CopyComplete
+C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.dll
+C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\DataConect\obj\Debug\netcoreapp3.1\DataConect.pdb

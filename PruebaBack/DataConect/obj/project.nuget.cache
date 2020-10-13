@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vuTtpQomlXIzXJFgYJhXpXQaJNYRIOOLXs0/q3NYzSzddZHE9k9qLghnB5c2azZvcbSf0axzVWpBHiCgixJMeg==",
+  "dgSpecHash": "CYSgIXvFjb9AUXHpzEUadmvqWfa/arXiu+qQ0/FC428fpFMFfmkMa1nAbSH+Ox+SwBN4xd1woL0iKdtjakt3EA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mauricio\\Desktop\\PruebaTecnica\\PruebaBack\\DataConect\\DataConect.csproj",
+  "projectFilePath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\DataConect\\DataConect.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mauricio\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Mauricio\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

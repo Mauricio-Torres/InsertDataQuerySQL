@@ -1,0 +1,3 @@
+2020-10-13T14:05:17.4716378-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T14:05:17.4789302-05:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T14:05:17.4804642-05:00  [INF] Content root path: "C:\Users\Mauricio\Documents\Proyectos Web\Prueba\PruebaBack\PruebaTecnica" (b5d60022)

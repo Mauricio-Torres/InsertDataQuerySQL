@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\Behavior\\Behavior.csproj",
-      "projectName": "Behavior",
-      "projectPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\Behavior\\Behavior.csproj",
+      "projectUniqueName": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\AppFront\\ConsumoServicio\\ConsumoServicio\\ConsumoServicio.csproj",
+      "projectName": "ConsumoServicio",
+      "projectPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\AppFront\\ConsumoServicio\\ConsumoServicio\\ConsumoServicio.csproj",
       "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\Behavior\\obj\\",
+      "outputPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\AppFront\\ConsumoServicio\\ConsumoServicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,6 +58,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"

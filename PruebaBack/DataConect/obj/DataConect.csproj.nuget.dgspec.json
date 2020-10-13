@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mauricio\\Desktop\\PruebaTecnica\\PruebaBack\\DataConect\\DataConect.csproj": {}
+    "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\DataConect\\DataConect.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mauricio\\Desktop\\PruebaTecnica\\PruebaBack\\Behavior\\Behavior.csproj": {
+    "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\Behavior\\Behavior.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\PruebaTecnica\\PruebaBack\\Behavior\\Behavior.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\Behavior\\Behavior.csproj",
         "projectName": "Behavior",
-        "projectPath": "C:\\Users\\Mauricio\\Desktop\\PruebaTecnica\\PruebaBack\\Behavior\\Behavior.csproj",
+        "projectPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\Behavior\\Behavior.csproj",
         "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio\\Desktop\\PruebaTecnica\\PruebaBack\\Behavior\\obj\\",
+        "outputPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\Behavior\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Mauricio\\Desktop\\PruebaTecnica\\PruebaBack\\DataConect\\DataConect.csproj": {
+    "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\DataConect\\DataConect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\PruebaTecnica\\PruebaBack\\DataConect\\DataConect.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\DataConect\\DataConect.csproj",
         "projectName": "DataConect",
-        "projectPath": "C:\\Users\\Mauricio\\Desktop\\PruebaTecnica\\PruebaBack\\DataConect\\DataConect.csproj",
+        "projectPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\DataConect\\DataConect.csproj",
         "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio\\Desktop\\PruebaTecnica\\PruebaBack\\DataConect\\obj\\",
+        "outputPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\DataConect\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Mauricio\\Desktop\\PruebaTecnica\\PruebaBack\\Behavior\\Behavior.csproj": {
-                "projectPath": "C:\\Users\\Mauricio\\Desktop\\PruebaTecnica\\PruebaBack\\Behavior\\Behavior.csproj"
+              "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\Behavior\\Behavior.csproj": {
+                "projectPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\Behavior\\Behavior.csproj"
               }
             }
           }
