@@ -39,11 +39,9 @@ namespace DataConect.Repositorios
 
         public List<AvionComercial> GetIntinerarios()
         {
-            try
-            {
-                var tableIntinerarios = _context.GetEntity(Constant.sqlIntinerarios).AsEnumerable().AsQueryable();
+            var tableIntinerarios = _context.GetEntity(Constant.sqlIntinerarios).AsEnumerable().AsQueryable();
 
-                var Intinerarios = (from bp in tableIntinerarios
+            var Intinerarios = (from bp in tableIntinerarios
                                 select new AvionComercial()
                                 {
                                     Id = bp.Field<int>("Id"),
@@ -53,12 +51,7 @@ namespace DataConect.Repositorios
                                     TiempoSalida = bp.Field<DateTime>("TiempoSalida"),
                                 }).ToList();
 
-                return Intinerarios;
-            }
-            catch (Exception ex)
-            {
-                throw;
-            }
+            return Intinerarios;
         }
 
         public void Insert(AvionComercial Intinerario)

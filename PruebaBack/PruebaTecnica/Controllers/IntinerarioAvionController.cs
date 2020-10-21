@@ -30,18 +30,19 @@ namespace PruebaTecnica.Controllers
         [Route("/intinerarioAvion")]
         public List<IntinerarioOutput> GetIntinerarios(int idAvion)
         {
+            List<IntinerarioOutput> paciente = new List<IntinerarioOutput>();
             try
             {                
-                var paciente = _context.GetIntinerario(idAvion);
+                paciente = _context.GetIntinerario(idAvion);
 
-                return paciente;
+
             }
             catch (Exception ex)
             {  
                 Logger.Logguer(System.Reflection.MethodBase.GetCurrentMethod().Name, "Exception ", ex.Message);
             }
 
-            return null;
+            return paciente;
         }
 
         /// <summary>
