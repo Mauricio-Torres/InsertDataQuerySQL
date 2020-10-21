@@ -32,13 +32,13 @@ namespace PruebaTecnica.Controllers
         {
             List<IntinerarioOutput> paciente = new List<IntinerarioOutput>();
             try
-            {                
+            {
                 paciente = _context.GetIntinerario(idAvion);
 
 
             }
             catch (Exception ex)
-            {  
+            {
                 Logger.Logguer(System.Reflection.MethodBase.GetCurrentMethod().Name, "Exception ", ex.Message);
             }
 
@@ -51,6 +51,7 @@ namespace PruebaTecnica.Controllers
         /// <returns></returns>
         [HttpGet]
         [Route("/intinerarios")]
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Major Code Smell", "S1168:Empty arrays and collections should be returned instead of null", Justification = "<pendiente>")]
         public List<IntinerarioOutput> GetIntinerarios()
         {
             try
@@ -129,7 +130,7 @@ namespace PruebaTecnica.Controllers
         [HttpGet]
         [Route("/ciudadesVisitadas")]
         public List<CiudadesVisitadas> ciudadesVisitadas(string tipoVisita)
-        {           
+        {
             try
             {
                 return _context.ciudadesVisitadas(tipoVisita);
@@ -180,4 +181,6 @@ namespace PruebaTecnica.Controllers
             return 0;
         }
     }
+
+
 }
