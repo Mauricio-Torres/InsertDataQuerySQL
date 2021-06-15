@@ -9840,33 +9840,32 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\PruebaTecnica\\PruebaTecnica.csproj",
+      "projectUniqueName": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\InsertDataQuerySQL\\PruebaBack\\PruebaTecnica\\PruebaTecnica.csproj",
       "projectName": "PruebaTecnica",
-      "projectPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\PruebaTecnica\\PruebaTecnica.csproj",
+      "projectPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\InsertDataQuerySQL\\PruebaBack\\PruebaTecnica\\PruebaTecnica.csproj",
       "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\PruebaTecnica\\obj\\",
+      "outputPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\InsertDataQuerySQL\\PruebaBack\\PruebaTecnica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\Behavior\\Behavior.csproj": {
-              "projectPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\Behavior\\Behavior.csproj"
+            "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\InsertDataQuerySQL\\PruebaBack\\Behavior\\Behavior.csproj": {
+              "projectPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\InsertDataQuerySQL\\PruebaBack\\Behavior\\Behavior.csproj"
             },
-            "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\DataConect\\DataConect.csproj": {
-              "projectPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\Prueba\\PruebaBack\\DataConect\\DataConect.csproj"
+            "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\InsertDataQuerySQL\\PruebaBack\\DataConect\\DataConect.csproj": {
+              "projectPath": "C:\\Users\\Mauricio\\Documents\\Proyectos Web\\InsertDataQuerySQL\\PruebaBack\\DataConect\\DataConect.csproj"
             }
           }
         }
@@ -9879,6 +9878,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Grpc.Core": {
             "target": "Package",
@@ -9933,6 +9933,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.13, 3.1.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -9941,7 +9947,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
